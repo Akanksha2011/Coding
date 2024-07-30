@@ -27,4 +27,20 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
