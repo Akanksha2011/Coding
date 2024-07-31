@@ -23,6 +23,7 @@ All DSA problems which I have solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -60,6 +61,7 @@ All DSA problems which I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
@@ -69,4 +71,16 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
