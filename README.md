@@ -34,6 +34,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +96,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
