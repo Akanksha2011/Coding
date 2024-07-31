@@ -61,4 +61,12 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
