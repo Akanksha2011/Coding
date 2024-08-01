@@ -7,10 +7,12 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Akanksha2011/Coding/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akanksha2011/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -116,4 +118,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
