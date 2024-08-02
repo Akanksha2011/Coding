@@ -76,6 +76,7 @@ All DSA problems which I have solved.
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Akanksha2011/Coding/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
@@ -90,6 +91,7 @@ All DSA problems which I have solved.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Akanksha2011/Coding/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
