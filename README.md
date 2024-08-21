@@ -21,6 +21,7 @@ All DSA problems which I have solved.
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akanksha2011/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -45,10 +46,12 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,4 +135,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Akanksha2011/Coding/tree/master/0131-palindrome-partitioning) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
