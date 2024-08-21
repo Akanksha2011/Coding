@@ -78,6 +78,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akanksha2011/Coding/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akanksha2011/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
@@ -87,6 +88,7 @@ All DSA problems which I have solved.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akanksha2011/Coding/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Akanksha2011/Coding/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akanksha2011/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
