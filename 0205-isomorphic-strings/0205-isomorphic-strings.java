@@ -3,7 +3,7 @@ class Solution {
         if(s.length() != t.length())
         return false;
         HashMap<Character,Character> map = new HashMap<>();
-        HashMap<Character,Character> m = new HashMap<>();
+        HashSet<Character> set = new HashSet<>();
         for(int i=0; i<s.length(); i++)
         {
             char a = s.charAt(i);
@@ -13,18 +13,16 @@ class Solution {
                 if(map.get(a) != b)
                 return false;
             }
-                else
-                {
+                else {
+                    if(set.contains(b))
+                    {
+                        return false;
+                    }
                     map.put(a,b);
+                    set.add(b);
                 }
-            if(m.containsKey(b))
-            {
-                if(m.get(b) != a)
-                return false;
-            }
-            else
-            m.put(b,a);     
         }
+               
         return true;
     }
 }
