@@ -67,6 +67,7 @@ All DSA problems which I have solved.
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ All DSA problems which I have solved.
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
