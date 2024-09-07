@@ -33,6 +33,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
@@ -68,6 +69,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
@@ -104,6 +106,7 @@ All DSA problems which I have solved.
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -124,6 +127,7 @@ All DSA problems which I have solved.
 | [0056-merge-intervals](https://github.com/Akanksha2011/Coding/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
@@ -169,6 +173,7 @@ All DSA problems which I have solved.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 ## Matrix
 |  |
