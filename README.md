@@ -50,24 +50,28 @@ All DSA problems which I have solved.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
