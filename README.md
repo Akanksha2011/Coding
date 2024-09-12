@@ -17,6 +17,7 @@ All DSA problems which I have solved.
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha2011/Coding/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akanksha2011/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
@@ -89,6 +90,7 @@ All DSA problems which I have solved.
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sliding Window
@@ -104,6 +106,7 @@ All DSA problems which I have solved.
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akanksha2011/Coding/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
