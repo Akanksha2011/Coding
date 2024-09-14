@@ -10,6 +10,7 @@ All DSA problems which I have solved.
 | [0007-reverse-integer](https://github.com/Akanksha2011/Coding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akanksha2011/Coding/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -127,6 +128,7 @@ All DSA problems which I have solved.
 | [0027-remove-element](https://github.com/Akanksha2011/Coding/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Akanksha2011/Coding/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Akanksha2011/Coding/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akanksha2011/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
