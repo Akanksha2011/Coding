@@ -145,6 +145,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Akanksha2011/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
@@ -216,6 +217,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Akanksha2011/Coding/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
