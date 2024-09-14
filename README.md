@@ -94,6 +94,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Akanksha2011/Coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Akanksha2011/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha2011/Coding/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
