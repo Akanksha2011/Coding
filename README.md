@@ -6,6 +6,7 @@ All DSA problems which I have solved.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akanksha2011/Coding/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
@@ -141,6 +142,7 @@ All DSA problems which I have solved.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
@@ -208,4 +210,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
