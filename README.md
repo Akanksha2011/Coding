@@ -111,6 +111,7 @@ All DSA problems which I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akanksha2011/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akanksha2011/Coding/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akanksha2011/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -150,6 +151,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akanksha2011/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Akanksha2011/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
