@@ -59,6 +59,7 @@ All DSA problems which I have solved.
 | [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akanksha2011/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
@@ -70,6 +71,7 @@ All DSA problems which I have solved.
 | [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akanksha2011/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
@@ -80,6 +82,7 @@ All DSA problems which I have solved.
 | [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akanksha2011/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
@@ -90,6 +93,7 @@ All DSA problems which I have solved.
 | [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akanksha2011/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
