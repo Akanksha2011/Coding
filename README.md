@@ -47,6 +47,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Akanksha2011/Coding/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Akanksha2011/Coding/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -56,6 +57,7 @@ All DSA problems which I have solved.
 | [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akanksha2011/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
@@ -83,6 +85,7 @@ All DSA problems which I have solved.
 | [0100-same-tree](https://github.com/Akanksha2011/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akanksha2011/Coding/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
@@ -157,6 +160,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0035-search-insert-position](https://github.com/Akanksha2011/Coding/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
