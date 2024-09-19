@@ -126,6 +126,7 @@ All DSA problems which I have solved.
 | [0125-valid-palindrome](https://github.com/Akanksha2011/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha2011/Coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
@@ -168,6 +169,7 @@ All DSA problems which I have solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha2011/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
@@ -198,6 +200,7 @@ All DSA problems which I have solved.
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
 ## Merge Sort
@@ -276,4 +279,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akanksha2011/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
