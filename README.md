@@ -12,6 +12,7 @@ All DSA problems which I have solved.
 | [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ All DSA problems which I have solved.
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha2011/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha2011/Coding/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akanksha2011/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -126,6 +128,7 @@ All DSA problems which I have solved.
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
@@ -228,6 +231,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
@@ -259,6 +263,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Akanksha2011/Coding/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
