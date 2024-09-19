@@ -25,6 +25,7 @@ All DSA problems which I have solved.
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akanksha2011/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -46,6 +47,7 @@ All DSA problems which I have solved.
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ All DSA problems which I have solved.
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -292,4 +295,12 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
