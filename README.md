@@ -243,6 +243,7 @@ All DSA problems which I have solved.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -290,6 +291,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
 ## Prefix Sum
 |  |
 | ------- |
