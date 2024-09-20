@@ -11,6 +11,7 @@ All DSA problems which I have solved.
 | [0009-palindrome-number](https://github.com/Akanksha2011/Coding/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
@@ -52,6 +53,7 @@ All DSA problems which I have solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Akanksha2011/Coding/tree/master/0476-number-complement) |
@@ -134,6 +136,7 @@ All DSA problems which I have solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Akanksha2011/Coding/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Akanksha2011/Coding/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha2011/Coding/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0151-reverse-words-in-a-string) |
@@ -280,6 +283,7 @@ All DSA problems which I have solved.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Recursion
 |  |
