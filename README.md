@@ -9,6 +9,7 @@ All DSA problems which I have solved.
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akanksha2011/Coding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akanksha2011/Coding/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
@@ -121,6 +122,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha2011/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
@@ -134,6 +136,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Akanksha2011/Coding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
