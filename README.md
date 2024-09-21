@@ -138,6 +138,7 @@ All DSA problems which I have solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Akanksha2011/Coding/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Akanksha2011/Coding/tree/master/0125-valid-palindrome) |
@@ -165,6 +166,7 @@ All DSA problems which I have solved.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akanksha2011/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Akanksha2011/Coding/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akanksha2011/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akanksha2011/Coding/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akanksha2011/Coding/tree/master/0125-valid-palindrome) |
@@ -321,4 +323,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
