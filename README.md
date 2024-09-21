@@ -14,6 +14,7 @@ All DSA problems which I have solved.
 | [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akanksha2011/Coding/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ All DSA problems which I have solved.
 | [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Akanksha2011/Coding/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
@@ -173,6 +175,7 @@ All DSA problems which I have solved.
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 ## Array
