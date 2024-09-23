@@ -54,6 +54,7 @@ All DSA problems which I have solved.
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Akanksha2011/Coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Akanksha2011/Coding/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0476-number-complement](https://github.com/Akanksha2011/Coding/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
