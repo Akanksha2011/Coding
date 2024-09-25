@@ -176,6 +176,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akanksha2011/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
@@ -220,6 +221,7 @@ All DSA problems which I have solved.
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Akanksha2011/Coding/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Akanksha2011/Coding/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akanksha2011/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
@@ -240,6 +242,7 @@ All DSA problems which I have solved.
 | [0069-sqrtx](https://github.com/Akanksha2011/Coding/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha2011/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Akanksha2011/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
@@ -341,6 +344,7 @@ All DSA problems which I have solved.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Akanksha2011/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
 ## Brainteaser
