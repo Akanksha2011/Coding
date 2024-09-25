@@ -218,6 +218,7 @@ All DSA problems which I have solved.
 | [0198-house-robber](https://github.com/Akanksha2011/Coding/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
@@ -334,6 +335,7 @@ All DSA problems which I have solved.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
 ## Brainteaser
 |  |
