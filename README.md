@@ -20,6 +20,7 @@ All DSA problems which I have solved.
 | [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Akanksha2011/Coding/tree/master/0263-ugly-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 ## Dynamic Programming
 |  |
@@ -141,6 +142,7 @@ All DSA problems which I have solved.
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Akanksha2011/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -221,6 +223,7 @@ All DSA problems which I have solved.
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
@@ -285,6 +288,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 ## Trie
 |  |
 | ------- |
@@ -361,4 +365,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
