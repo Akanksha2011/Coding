@@ -9,6 +9,7 @@ All DSA problems which I have solved.
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akanksha2011/Coding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Akanksha2011/Coding/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Akanksha2011/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Akanksha2011/Coding/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Akanksha2011/Coding/tree/master/0066-plus-one) |
@@ -130,6 +131,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha2011/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Akanksha2011/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
@@ -146,6 +148,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Akanksha2011/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
