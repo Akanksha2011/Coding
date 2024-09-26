@@ -228,6 +228,7 @@ All DSA problems which I have solved.
 | [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
@@ -246,6 +247,7 @@ All DSA problems which I have solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha2011/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akanksha2011/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
+| [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
 | ------- |
@@ -294,6 +296,7 @@ All DSA problems which I have solved.
 | [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
+| [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
 ## Trie
 |  |
 | ------- |
@@ -375,4 +378,12 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
