@@ -85,6 +85,7 @@ All DSA problems which I have solved.
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha2011/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
@@ -98,6 +99,7 @@ All DSA problems which I have solved.
 | [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha2011/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
@@ -125,6 +127,7 @@ All DSA problems which I have solved.
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha2011/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
