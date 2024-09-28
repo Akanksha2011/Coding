@@ -88,6 +88,7 @@ All DSA problems which I have solved.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -130,6 +131,7 @@ All DSA problems which I have solved.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
@@ -233,6 +235,7 @@ All DSA problems which I have solved.
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -293,6 +296,7 @@ All DSA problems which I have solved.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akanksha2011/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -349,6 +353,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -389,4 +394,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
