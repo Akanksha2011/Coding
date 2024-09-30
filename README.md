@@ -238,6 +238,7 @@ All DSA problems which I have solved.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Akanksha2011/Coding/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Akanksha2011/Coding/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akanksha2011/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -304,6 +305,7 @@ All DSA problems which I have solved.
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Akanksha2011/Coding/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
 | ------- |
@@ -354,6 +356,7 @@ All DSA problems which I have solved.
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Akanksha2011/Coding/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Prefix Sum
 |  |
 | ------- |
