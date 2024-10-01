@@ -83,6 +83,7 @@ All DSA problems which I have solved.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akanksha2011/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akanksha2011/Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha2011/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
@@ -129,6 +130,7 @@ All DSA problems which I have solved.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akanksha2011/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Akanksha2011/Coding/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akanksha2011/Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha2011/Coding/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Akanksha2011/Coding/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/0226-invert-binary-tree) |
@@ -304,6 +306,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akanksha2011/Coding/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akanksha2011/Coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/Akanksha2011/Coding/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -311,6 +314,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
@@ -366,6 +370,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Akanksha2011/Coding/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Akanksha2011/Coding/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Prefix Sum
@@ -412,4 +417,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
