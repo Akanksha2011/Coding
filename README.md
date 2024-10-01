@@ -140,6 +140,7 @@ All DSA problems which I have solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Akanksha2011/Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akanksha2011/Coding/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Akanksha2011/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
@@ -222,6 +223,7 @@ All DSA problems which I have solved.
 | [0118-pascals-triangle](https://github.com/Akanksha2011/Coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha2011/Coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akanksha2011/Coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Akanksha2011/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akanksha2011/Coding/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Akanksha2011/Coding/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha2011/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -328,6 +330,7 @@ All DSA problems which I have solved.
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Akanksha2011/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 ## Counting
 |  |
