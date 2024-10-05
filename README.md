@@ -156,6 +156,7 @@ All DSA problems which I have solved.
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Akanksha2011/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Akanksha2011/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -181,6 +182,7 @@ All DSA problems which I have solved.
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Akanksha2011/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -191,6 +193,7 @@ All DSA problems which I have solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha2011/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akanksha2011/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +212,7 @@ All DSA problems which I have solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha2011/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
