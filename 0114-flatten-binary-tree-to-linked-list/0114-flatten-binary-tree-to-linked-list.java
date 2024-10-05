@@ -22,11 +22,11 @@ class Solution {
         TreeNode tempright = root.right;
         root.right = root.left;
         root.left = null;
-        TreeNode curr = root;
-        while(curr.right != null)
+        TreeNode temp = root;
+        while(temp.right != null)
         {
-            curr = curr.right;
+            temp = temp.right;
         }
-        curr.right = tempright;
+        temp.right = tempright;
     }
 }
