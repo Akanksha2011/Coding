@@ -60,6 +60,7 @@ All DSA problems which I have solved.
 | [0190-reverse-bits](https://github.com/Akanksha2011/Coding/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Akanksha2011/Coding/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -162,6 +163,7 @@ All DSA problems which I have solved.
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akanksha2011/Coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
@@ -253,6 +255,7 @@ All DSA problems which I have solved.
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akanksha2011/Coding/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Akanksha2011/Coding/tree/master/0729-my-calendar-i) |
@@ -302,6 +305,7 @@ All DSA problems which I have solved.
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Akanksha2011/Coding/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
@@ -312,11 +316,13 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/Akanksha2011/Coding/tree/master/1325-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akanksha2011/Coding/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -362,6 +368,7 @@ All DSA problems which I have solved.
 | ------- |
 | [0169-majority-element](https://github.com/Akanksha2011/Coding/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akanksha2011/Coding/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Akanksha2011/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Akanksha2011/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -440,4 +447,8 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
