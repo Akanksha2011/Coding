@@ -96,6 +96,7 @@ All DSA problems which I have solved.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Akanksha2011/Coding/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ All DSA problems which I have solved.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Akanksha2011/Coding/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Akanksha2011/Coding/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ All DSA problems which I have solved.
 | [0801-is-graph-bipartite](https://github.com/Akanksha2011/Coding/tree/master/0801-is-graph-bipartite) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Akanksha2011/Coding/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +150,7 @@ All DSA problems which I have solved.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Akanksha2011/Coding/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +174,7 @@ All DSA problems which I have solved.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Akanksha2011/Coding/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Akanksha2011/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/Akanksha2011/Coding/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
