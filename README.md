@@ -39,6 +39,7 @@ All DSA problems which I have solved.
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Akanksha2011/Coding/tree/master/0954-maximum-sum-circular-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akanksha2011/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akanksha2011/Coding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -273,6 +274,7 @@ All DSA problems which I have solved.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akanksha2011/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akanksha2011/Coding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -382,6 +384,7 @@ All DSA problems which I have solved.
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Akanksha2011/Coding/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
