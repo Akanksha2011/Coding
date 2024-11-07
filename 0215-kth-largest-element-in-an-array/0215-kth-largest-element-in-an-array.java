@@ -5,12 +5,10 @@ class Solution {
        {
            maxHeap.offer(num);
        }
-
        for(int i=1; i<k; i++)
     {
         maxHeap.poll();
     }
     return maxHeap.peek();
     }
-
 }
