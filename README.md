@@ -204,6 +204,7 @@ All DSA problems which I have solved.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Akanksha2011/Coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Akanksha2011/Coding/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akanksha2011/Coding/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2470-removing-stars-from-a-string](https://github.com/Akanksha2011/Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -392,6 +393,7 @@ All DSA problems which I have solved.
 | [0067-add-binary](https://github.com/Akanksha2011/Coding/tree/master/0067-add-binary) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Akanksha2011/Coding/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Akanksha2011/Coding/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2470-removing-stars-from-a-string](https://github.com/Akanksha2011/Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -408,6 +410,7 @@ All DSA problems which I have solved.
 | [0173-binary-search-tree-iterator](https://github.com/Akanksha2011/Coding/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Akanksha2011/Coding/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Akanksha2011/Coding/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2470-removing-stars-from-a-string](https://github.com/Akanksha2011/Coding/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
