@@ -230,6 +230,7 @@ All DSA problems which I have solved.
 | [0151-reverse-words-in-a-string](https://github.com/Akanksha2011/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha2011/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Akanksha2011/Coding/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
@@ -264,6 +265,7 @@ All DSA problems which I have solved.
 | [0219-contains-duplicate-ii](https://github.com/Akanksha2011/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Akanksha2011/Coding/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akanksha2011/Coding/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Akanksha2011/Coding/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Akanksha2011/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Akanksha2011/Coding/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
