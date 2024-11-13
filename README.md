@@ -196,6 +196,7 @@ All DSA problems which I have solved.
 | [0208-implement-trie-prefix-tree](https://github.com/Akanksha2011/Coding/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Akanksha2011/Coding/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akanksha2011/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Akanksha2011/Coding/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Akanksha2011/Coding/tree/master/0539-minimum-time-difference) |
@@ -231,6 +232,7 @@ All DSA problems which I have solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akanksha2011/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Akanksha2011/Coding/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akanksha2011/Coding/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Akanksha2011/Coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Akanksha2011/Coding/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
