@@ -309,6 +309,7 @@ All DSA problems which I have solved.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Akanksha2011/Coding/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Akanksha2011/Coding/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Akanksha2011/Coding/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Akanksha2011/Coding/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akanksha2011/Coding/tree/master/0328-odd-even-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -409,6 +410,7 @@ All DSA problems which I have solved.
 | [0002-add-two-numbers](https://github.com/Akanksha2011/Coding/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Akanksha2011/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Akanksha2011/Coding/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Akanksha2011/Coding/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Akanksha2011/Coding/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
