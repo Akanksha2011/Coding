@@ -238,6 +238,7 @@ All DSA problems which I have solved.
 | [0567-permutation-in-string](https://github.com/Akanksha2011/Coding/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Akanksha2011/Coding/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Akanksha2011/Coding/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akanksha2011/Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -312,6 +313,7 @@ All DSA problems which I have solved.
 | [0206-reverse-linked-list](https://github.com/Akanksha2011/Coding/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akanksha2011/Coding/tree/master/0328-odd-even-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Akanksha2011/Coding/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akanksha2011/Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Akanksha2011/Coding/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
